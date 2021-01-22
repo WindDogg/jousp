@@ -1,0 +1,23 @@
+{
+	"features": [{
+		"geometry": {
+			"coordinates": [
+				[
+					[116, 40],[116, 40]
+				],
+				[
+				    [116, 40],[116, 40]
+				]
+			],
+			"type": "MultiPolygon"
+		},
+		"type": "Feature",
+		"properties": {
+			"gridname": "区域名称",
+			"X": 116,
+			"Y": 40,
+			"gridid": "120010"
+		}
+	}],
+	"type": "FeatureCollection"
+}
